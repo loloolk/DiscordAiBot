@@ -1,0 +1,7 @@
+discord
+transformers
+diffusers
+accelerate
+torch
+auto-gptq --extra-index-url https://huggingface.github.io/autogptq-index/whl/cu118/
+optimum
